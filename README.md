@@ -1,7 +1,7 @@
 <h1 align="center">Tomer Menashe</h1>
 
 <p align="center">
-  <img src="https://your-profile-banner-image-link" alt="profile banner" width="600">
+  <img src="github-header-image.png" alt="profile banner" width="600">
 </p>
 
 <h3 align="center">Computer Science Student | Passionate about AI and Innovative Software Solutions</h3>

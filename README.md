@@ -41,11 +41,11 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tomer-menashe&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TomerMenashe&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomer-menashe&theme=radical" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomerMenashe&theme=radical" alt="Profile Summary">
 </p>
 
 ---

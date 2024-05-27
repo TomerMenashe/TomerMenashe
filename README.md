@@ -92,6 +92,6 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TomerMenashe" alt="visitor badge"/>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=tomer-menashe.tomer-menashe" alt="visitor badge"/>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 </p>

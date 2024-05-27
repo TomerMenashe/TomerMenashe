@@ -1,7 +1,7 @@
 <h1 align="center">Tomer Menashe</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" alt="profile banner">
+  <img src="https://your-profile-banner-image-link" alt="profile banner" width="600">
 </p>
 
 <h3 align="center">Computer Science Student | Passionate about AI and Innovative Software Solutions</h3>
@@ -16,6 +16,10 @@
 ## Hello Everyone 👋 I am Tomer Menashe
 
 Hi! I am a Computer Science student at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300">
+</p>
 
 ---
 
@@ -35,13 +39,13 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomer-menashe&show_icons=true&theme=radical" alt="Tomer's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomer-menashe&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomermMnashe&show_icons=true&theme=radical" alt="Tomer's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomermMnashe&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### 📚 Experience
+### 💼 Experience
 
 - **Private Programming and Math Tutor**
   - **Tarnegolim Program, Reichman University (2022 - Present)**
@@ -68,9 +72,9 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 
 ### 🌟 Projects
 
-- **Project 1 Name**: [Link to project] - Brief description of the project.
-- **Project 2 Name**: [Link to project] - Brief description of the project.
-- **Project 3 Name**: [Link to project] - Brief description of the project.
+- **Project 1 Name:** [Link to project] - Brief description of the project.
+- **Project 2 Name:** [Link to project] - Brief description of the project.
+- **Project 3 Name:** [Link to project] - Brief description of the project.
 
 ---
 
@@ -92,5 +96,5 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tomer-menashe.tomer-menashe" alt="visitor badge"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 </p>
-

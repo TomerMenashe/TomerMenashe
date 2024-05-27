@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/TomerMenashe/TomerMenashe/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="profile banner" width="1200">
 </p>
-<h3 align="center">Passionate Computer Science student at Reichman University with a focus on AI and innovative software solutions.</h3>
 
 <p align="center">
   <a href="mailto:Tomer.menashe.15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -16,7 +15,7 @@
 Hi! I am a Computer Science student at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="300">
 </p>
 
 ---

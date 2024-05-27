@@ -15,7 +15,7 @@
 Hi! I am a Computer Science student at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
 <p align="center">
-  <img mg src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="400">
 </p>
 
 ---
@@ -67,9 +67,9 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 
 ### 🌟 Projects
 
-- **[Project 1 Name](https://github.com/TomerMenashe/FITA-Trip-Planner):** Trip Planner Page using google Serpapi to find trio deals.
-- **[Project 2 Name](https://github.com/TomerMenashe/price-comparison-page):** Price Comperation Page using Scraping with selenium to compare porduct prices form different websites.
-- **[Project 3 Name](https://github.com/TomerMenashe/FITA-AIEverywhere):** Chrom Extension that rewrite lines on the browser using OpenAI API key .
+- **[FITA Trip Planner](https://github.com/TomerMenashe/FITA-Trip-Planner):** Trip Planner Page using Google Serpapi to find trip deals.
+- **[Price Comparison Page](https://github.com/TomerMenashe/price-comparison-page):** Price Comparison Page using Selenium to compare product prices from different websites.
+- **[FITA AI Everywhere](https://github.com/TomerMenashe/FITA-AIEverywhere):** Chrome Extension that rewrites lines on the browser using OpenAI API key.
 
 ---
 
@@ -92,6 +92,6 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tomer-menashe.tomer-menashe" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TomerMenashe.TomerMenashe" alt="visitor badge"/>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 </p>

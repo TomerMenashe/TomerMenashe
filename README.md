@@ -15,7 +15,7 @@
 Hi! I am a Computer Science student at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="300">
+  <img mg src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="600">
 </p>
 
 ---

@@ -1,7 +1,8 @@
-
 <p align="center">
-  <img src="https://github.com/your-username/profile-assets/blob/main/banner.jpg" alt="profile banner" width="800">
+  <img src="https://github.com/TomerMenashe/TomerMenashe/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="profile banner" width="800">
 </p>
+
+<h1 align="center">Tomer Menashe</h1>
 
 <h3 align="center">Computer Science Student | Passionate about AI and Innovative Software Solutions</h3>
 
@@ -65,11 +66,6 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
   - Designed and maintained websites using the WordPress platform.
   - Contributed to innovative practices and streamlined processes.
 
-#### Technical Floor Manager
-- **Survivor Reality TV Show (Israel) (2021)**
-  - Provided real-time troubleshooting and technical support.
-  - Ensured successful and smooth production processes.
-
 ---
 
 ### 🎓 Education
@@ -80,9 +76,9 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 
 ### 🌟 Projects
 
-- **[Project 1 Name](https://github.com/tomer-menashe/project1):** Brief description of the project. Highlight key technologies used.
-- **[Project 2 Name](https://github.com/tomer-menashe/project2):** Brief description of the project. Highlight key technologies used.
-- **[Project 3 Name](https://github.com/tomer-menashe/project3):** Brief description of the project. Highlight key technologies used.
+- **[Project 1 Name](https://github.com/TomerMenashe/FITA-Trip-Planner):** Trip Planner Page using google Serpapi to find trio deals.
+- **[Project 2 Name](https://github.com/TomerMenashe/price-comparison-page):** Price Comperation Page using Scraping with selenium to compare porduct prices form different websites.
+- **[Project 3 Name](https://github.com/TomerMenashe/FITA-AIEverywhere):** Chrom Extension that rewrite lines on the browser using OpenAI API key .
 
 ---
 
@@ -91,21 +87,6 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 **Sayeret Nachal Special Forces**
 - Served as a combat fighter, team commander, and sergeant.
 - Performed operational activities in various regions.
-
----
-
-### 🌐 Languages
-
-- **Hebrew:** Native
-- **English:** Proficient
-- **Spanish:** Basic
-
----
-
-### 🏆 Achievements & Certifications
-
-- **Achievement 1:** Description of the achievement.
-- **Certification 1:** Description of the certification.
 
 ---
 

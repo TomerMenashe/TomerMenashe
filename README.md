@@ -36,11 +36,6 @@ Hi! I am a Computer Science student at Reichman University, passionate about AI,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomerMenashe&show_icons=true&theme=radical" alt="Tomer's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomerMenashe&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TomerMenashe&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 

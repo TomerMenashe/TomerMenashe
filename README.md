@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://github.com/TomerMenashe/TomerMenashe/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="profile banner" width="800">
+  <img src="https://github.com/TomerMenashe/TomerMenashe/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="profile banner" width="1200">
 </p>
-
-<h1 align="center">Tomer Menashe</h1>
-
-<h3 align="center">Computer Science Student | Passionate about AI and Innovative Software Solutions</h3>
+<h3 align="center">Passionate Computer Science student at Reichman University with a focus on AI and innovative software solutions.</h3>
 
 <p align="center">
   <a href="mailto:Tomer.menashe.15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

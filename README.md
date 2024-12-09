@@ -12,7 +12,7 @@
 
 ## Hello Everyone 👋 I am Tomer Menashe
 
-Hi! I am a Computer Science student at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
+Hi! I am a Computer Science grad at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="400">

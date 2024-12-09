@@ -45,20 +45,6 @@ Hi! I am a Computer Science grad at Reichman University, passionate about AI, pr
 
 ---
 
-### 💼 Experience
-
-#### Private Programming and Math Tutor
-- **Tarnegolim Program, Reichman University (2022 - Present)**
-  - Assisted first-year Computer Science students in understanding complex concepts in linear algebra and calculus.
-  - Provided guidance to aspiring Java programmers.
-
-#### Web Master
-- **Band Pro Film Video Inc (2019 - Present)**
-  - Designed and maintained websites using the WordPress platform.
-  - Contributed to innovative practices and streamlined processes.
-
----
-
 ### 🎓 Education
 
 - **B.Sc Computer Science**, Reichman University, Herzliya

@@ -12,7 +12,7 @@
 
 ## Hello Everyone 👋 I am Tomer Menashe
 
-Hi! I am a Computer Science grad at Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
+Hi! I am a Computer Science grad from Reichman University, passionate about AI, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="400">
@@ -53,9 +53,9 @@ Hi! I am a Computer Science grad at Reichman University, passionate about AI, pr
 
 ### 🌟 Projects
 
+- **[Surf Shop](https://github.com/TomerMenashe/surfShop):** E-Commerce online shop using react & node.js.
 - **[Trip Planner](https://github.com/TomerMenashe/FITA-Trip-Planner):** Trip Planner Page using Google Serpapi to find trip deals.
 - **[Price Comparison Page](https://github.com/TomerMenashe/price-comparison-page):** Price Comparison Page using Selenium to compare product prices from different websites.
-- **[AI Everywhere](https://github.com/TomerMenashe/FITA-AIEverywhere):** Chrome Extension that rewrites lines on the browser using OpenAI API key.
 
 ---
 
